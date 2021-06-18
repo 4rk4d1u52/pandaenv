@@ -1,0 +1,23 @@
+Started by user [8mha:////4Hc7bVmhYN8/pbuv+k7OmHbAIvmMS78MyUUWDjJGa3iNAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9gsS8lEQACjKVYMAAAAA=[0mpanda
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/CodePull
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/jenkins_home/workspace/CodePull/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/4rk4d1u52/panda_application.git # timeout=10
+Fetching upstream changes from https://github.com/4rk4d1u52/panda_application.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.20.1'
+ > git fetch --tags --force --progress -- https://github.com/4rk4d1u52/panda_application.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 2a5a1dc7dc219fb84de732b83b7c4f941dcd34e2 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 2a5a1dc7dc219fb84de732b83b7c4f941dcd34e2 # timeout=10
+Commit message: "rm target - reload repo from git"
+ > git rev-list --no-walk 2a5a1dc7dc219fb84de732b83b7c4f941dcd34e2 # timeout=10
+[CodePull] $ /bin/sh -xe /tmp/jenkins7796620743160730726.sh
++ cat panda_application/src/main/resources/templates/greeting.html
+cat: panda_application/src/main/resources/templates/greeting.html: No such file or directory
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

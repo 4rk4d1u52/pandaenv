@@ -1,0 +1,7 @@
+Started by user [8mha:////4Hc7bVmhYN8/pbuv+k7OmHbAIvmMS78MyUUWDjJGa3iNAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9gsS8lEQACjKVYMAAAAA=[0mpanda
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Job666
+[Job666] $ /bin/sh -xe /tmp/jenkins10605775375659825113.sh
++ echo hello f...
+hello f...
+Finished: SUCCESS
