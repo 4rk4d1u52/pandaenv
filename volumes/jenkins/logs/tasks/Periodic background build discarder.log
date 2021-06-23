@@ -1,8 +1,44 @@
-Started at Mon May 31 16:43:54 UTC 2021
-Finished at Mon May 31 16:43:54 UTC 2021. 1ms
-Started at Mon May 31 17:43:54 UTC 2021
+Started at Mon Jun 21 16:01:06 UTC 2021
+Processing CodePull
+Offering CodePull to Project Build Discarder
 Processing Job1
 Offering Job1 to Project Build Discarder
 Processing Job666
 Offering Job666 to Project Build Discarder
-Finished at Mon May 31 17:43:54 UTC 2021. 1ms
+Processing Project_test2
+Offering Project_test2 to Project Build Discarder
+Finished at Mon Jun 21 16:01:06 UTC 2021. 3ms
+Started at Mon Jun 21 17:01:06 UTC 2021
+Processing CodePull
+Offering CodePull to Project Build Discarder
+Processing Job1
+Offering Job1 to Project Build Discarder
+Processing Job666
+Offering Job666 to Project Build Discarder
+Processing Project_test2
+Offering Project_test2 to Project Build Discarder
+Finished at Mon Jun 21 17:01:06 UTC 2021. 1ms
+Started at Mon Jun 21 18:01:06 UTC 2021
+Processing CodePull
+Offering CodePull to Project Build Discarder
+Processing Job1
+Offering Job1 to Project Build Discarder
+Processing Job666
+Offering Job666 to Project Build Discarder
+Processing Pipeline_1
+Offering Pipeline_1 to Project Build Discarder
+Processing Project_test2
+Offering Project_test2 to Project Build Discarder
+Finished at Mon Jun 21 18:01:06 UTC 2021. 18ms
+Started at Mon Jun 21 19:01:06 UTC 2021
+Processing CodePull
+Offering CodePull to Project Build Discarder
+Processing Job1
+Offering Job1 to Project Build Discarder
+Processing Job666
+Offering Job666 to Project Build Discarder
+Processing Pipeline_1
+Offering Pipeline_1 to Project Build Discarder
+Processing Project_test2
+Offering Project_test2 to Project Build Discarder
+Finished at Mon Jun 21 19:01:06 UTC 2021. 5ms
